@@ -1,0 +1,30 @@
+.banner {
+    background: url("https://www.uponline.se/wp-content/uploads/grafer-pekar-uppat-tangentbord-1024x576.jpg") 
+        no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:#ffffff;
+    font-family:'Times New Roman', Times, serif
+}
+#galery {
+    background-color: #e2edff;
+    
+}
+
+#contact {
+    background: url("https://cdn.sisense.com/wp-content/uploads/Data_Cleaning_1200x800-min.jpg") no-repeat center center;
+    background-size: cover;
+    color: #e2edff;
+}
+
+.background {
+    background: url("https://crypto-times.jp/wp-content/uploads/2018/03/shutterstock_566877226.jpg") no-repeat center center;
+    background-size: cover;
+    color:#fff;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5%;
+}
+ .navbar {
+     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+ }
